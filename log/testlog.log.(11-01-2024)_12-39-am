@@ -1,0 +1,6 @@
+0    [main] INFO  ebanking  - Chrome browser opened.
+611  [main] INFO  ebanking  - Edge browser opened.
+3246 [main] INFO  ebanking  - URL is opened
+3362 [main] INFO  ebanking  - Entered Username
+3421 [main] INFO  ebanking  - entered password
+4250 [main] INFO  ebanking  - Login test passed

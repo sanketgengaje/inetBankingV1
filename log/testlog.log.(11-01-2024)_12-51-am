@@ -1,0 +1,5 @@
+0    [main] INFO  ebanking  - Edge browser opened.
+3112 [main] INFO  ebanking  - URL is opened
+3202 [main] INFO  ebanking  - Entered Username
+3271 [main] INFO  ebanking  - entered password
+4177 [main] INFO  ebanking  - Login test passed

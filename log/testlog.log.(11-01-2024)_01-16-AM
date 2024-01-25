@@ -1,0 +1,10 @@
+0    [main] INFO  ebanking  - Firefox browser opened.
+3379 [main] INFO  ebanking  - URL is opened
+3452 [main] INFO  ebanking  - Entered Username
+3474 [main] INFO  ebanking  - entered password
+4482 [main] INFO  ebanking  - Login test passed
+0    [main] INFO  ebanking  - Chrome browser opened.
+3271 [main] INFO  ebanking  - URL is opened
+3357 [main] INFO  ebanking  - Entered Username
+3401 [main] INFO  ebanking  - entered password
+4314 [main] INFO  ebanking  - Login test passed

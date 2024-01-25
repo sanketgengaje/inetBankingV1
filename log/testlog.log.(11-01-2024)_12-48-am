@@ -1,0 +1,6 @@
+0    [main] INFO  ebanking  - Chrome browser opened.
+634  [main] INFO  ebanking  - Edge browser opened.
+9347 [main] INFO  ebanking  - URL is opened
+9440 [main] INFO  ebanking  - Entered Username
+9540 [main] INFO  ebanking  - entered password
+10461 [main] INFO  ebanking  - Login test passed

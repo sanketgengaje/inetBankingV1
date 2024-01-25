@@ -1,0 +1,4 @@
+0    [main] INFO  ebanking  - URL is opened
+68   [main] INFO  ebanking  - Entered Username
+112  [main] INFO  ebanking  - entered password
+1012 [main] INFO  ebanking  - Login test passed

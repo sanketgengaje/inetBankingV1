@@ -1,0 +1,4 @@
+0    [main] INFO  ebanking  - URL is opened
+79   [main] INFO  ebanking  - Entered Username
+129  [main] INFO  ebanking  - entered password
+966  [main] INFO  ebanking  - Login test passed
